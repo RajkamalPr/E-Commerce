@@ -1,0 +1,14 @@
+.custm-card {
+  width: 100%;
+  margin-bottom: 1rem;
+}
+.custm-product-img {
+  height: 10rem;
+  width: 10rem;
+}
+.description {
+  height: 7.5rem;
+  display: flex;
+  overflow: hidden;
+  text-align: left;
+}

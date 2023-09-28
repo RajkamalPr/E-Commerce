@@ -1,0 +1,16 @@
+.main-container {
+  padding-top: 3rem;
+  overflow: hidden;
+  padding-bottom: 8rem;
+}
+.product-description-img {
+  height: 35rem;
+}
+@media screen and (max-width: 480px) {
+  .product-description-img {
+    height: 10rem;
+  }
+}
+.cartItem-image-icon {
+  height: 5rem;
+}
